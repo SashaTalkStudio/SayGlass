@@ -1,2 +1,3 @@
 # SayGlass
-New era of OS'es for computers from OpenComputers
+
+A new era of OS for computers from OpenComputers
